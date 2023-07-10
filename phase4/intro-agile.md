@@ -27,6 +27,11 @@ The experience of working on a team during this phase and the product you build 
 - [Jamie Howard Huddle on Agile, Aug 2022](https://drive.google.com/file/d/1g4J7ncUspw2qh6D2yW0NsG5tISYZCPfM/view?usp=share_link)
 - [How we use "ship small" to rapidly build new features at GitHub](https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9)
 
+## 📽️ Slides
+
+- [Phase Overview slides](https://drive.google.com/file/d/1W4MGRVMhO8LygjNLlVSPCntSini7VNoJ/view?usp=sharing)
+
+
 ## 🔖 References
 
 - [Agile Development][agile-development]
