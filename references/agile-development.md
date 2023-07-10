@@ -17,13 +17,14 @@ layout: resource_list
 
 - 💫 [Common Time Management Problems & Solutions](https://dev.to/actitime/20-most-common-time-management-problems-solutions-3abb)
 - [The Pomodoro Technique for Time Management & Productivity](https://todoist.com/productivity-methods/pomodoro-technique)
-    - [Zapier's list of Pomodoro Apps](https://zapier.com/blog/best-pomodoro-apps/)
 - [Time Blocking](https://todoist.com/productivity-methods/time-blocking)
 
 ### Productivity Timers ⏲️
 
 - [Cuckoo](https://cuckoo.team/) _The one we use in our meetings_
+- [Tomito](https://tomito.app/) _(Free) Pomodoro timer from the App Store_
 - [Pomofocus Pomodoro Timer](https://pomofocus.io/)
+- [Zapier's list of Pomodoro Apps](https://zapier.com/blog/best-pomodoro-apps/)
 - [Marinara Pomodoro Timer Chrome Extension](https://chrome.google.com/webstore/detail/marinara-pomodoro%C2%AE-assist/lojgmehidjdhhbmpjfamhpkpodfcodef?hl=en)
 
 ## Idea Generation
