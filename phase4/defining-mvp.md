@@ -5,7 +5,7 @@ topic: Agile
 category: phase4
 parent: Phase 4
 nav_order: 2
-published: false
+published: true
 ---
 <!-- markdownlint-disable no-trailing-punctuation -->
 ## 🎯 Learning Objectives & Agenda
@@ -31,7 +31,7 @@ Use these slides to guide your team discussions today.
 
 - [Agile Basics][agile-101]
 - [MVP and Team Formation][agile-practices]
-- [Idea Generation][idea-generation] _Included here are links to technical resources that may be helpful to you as you talk about implementation._
+- [Idea Generation][idea-generation] _Included here are links to technical resources that may be helpful to you as you start to talk about implementation._
 - [Product Roadmap Slides](https://drive.google.com/file/d/1CfBqu0XJ2nu0YwX3udJ9tulN3CxK8Tdz/view?usp=share_link)
 
 {% include reference_links.md %}
