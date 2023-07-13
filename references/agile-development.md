@@ -101,5 +101,13 @@ layout: resource_list
 - [Stack Overflow Podcast: Building a web app](https://stackoverflow.blog/2021/02/12/podcast-312-were-building-a-web-app-got-any-advice/)
 - [CodeNewbie Podcast: What does it mean to be a part of the software development life cycle](https://www.codenewbie.org/podcast/what-does-it-mean-to-be-a-part-of-the-software-development-life-cycle)
 
+## Slides
 
+- [Agile Development](https://drive.google.com/file/d/11FdKfcBitBjs7R6Tqkug7oTn9NWdCltQ/view?usp=drive_link)
+- [Idea Generation](https://drive.google.com/file/d/16F1Rzg8yEecoBem4WSqcL0MdGuC1Oo_i/view?usp=drive_link)
+- [Teams + Tasks](https://drive.google.com/file/d/1dN2Wv1GlNkEwnOgSNqTEtCM6ztj0_KeV/view?usp=sharing)
+- [Product Roadmap Slides](https://drive.google.com/file/d/1CfBqu0XJ2nu0YwX3udJ9tulN3CxK8Tdz/view?usp=share_link)
+- [Personas & User Stories](https://drive.google.com/file/d/1QCvM1hgpDYYdIfQvsfvNxiUztUTWDSyh/view?usp=sharing)
+- [Trello & Tasks](https://drive.google.com/file/d/1xTEaeCQ174F30HQGY8btcqW5zbhH9-Rh/view)
+- 
 {% include reference_links.md %}

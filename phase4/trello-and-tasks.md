@@ -5,7 +5,7 @@ topic: Agile
 category: phase4
 parent: Phase 4
 nav_order: 4
-published: false
+published: true
 ---
 
 ## 🎯 Learning Objectives & Agenda
@@ -28,6 +28,5 @@ These boards are from real final projects, so you'll see most of the cards in th
 - [User Flows][user-flows]
 - [Going from User Stories to Tasks][tasks]
 - [Trello & Tasks Slides](https://drive.google.com/file/d/1xTEaeCQ174F30HQGY8btcqW5zbhH9-Rh/view?usp=share_link)
-
 
 {% include reference_links.md %}

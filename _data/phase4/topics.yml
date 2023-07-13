@@ -14,12 +14,12 @@
   phase: 4
   date: 2023-07-12
   page: phase4/user-stories.md
-  published: false
+  published: true
 - title: Trello and Tasks
   phase: 4
   date: 2023-07-13
   page: phase4/trello-and-tasks.md
-  published: false
+  published: true
   post_today: true
 - title: Ready...Set...Code!
   phase: 4

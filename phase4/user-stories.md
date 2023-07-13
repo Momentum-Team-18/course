@@ -5,7 +5,7 @@ topic: Agile
 category: phase4
 parent: Phase 4
 nav_order: 3
-published: false
+published: true
 ---
 
 ## 🎯 Learning Objectives & Agenda
