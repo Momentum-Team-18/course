@@ -5,7 +5,7 @@ topic: Agile
 category: phase4
 parent: Phase 4
 nav_order: 6
-published: false
+published: true
 ---
 
 ## July 17 - August 2
@@ -18,20 +18,20 @@ _All meetings in the regular Zoom unless otherwise noted._
 - Starts **Monday July 17**
 - Morning with staff, 10-15 minutes
     - @9:30-9:45 am Team 🌮
-    - @9:45-10:00 am Team 🍣
-    - @10:00-10:15 am Team 🍜
+    - @9:45-10:00 am Team 🍜
+    - @10:00-10:15 am Team 🍣
 - **Friday standups are asynchronous**. Everyone posts their update in their team's Slack channel.
     - Please post your async standup update by **11:00 am on Fridays**.
-- We strongly suggest a late day standup on your own schedule.
+- We strongly advise doing a late day standup on your own schedule.
 
 ### Team Check-Ins twice weekly, Mondays & Thursdays
 
 - Check your calendar for an invite
 - The first check-in will be on **Monday July 17**.
 - Check-ins are scheduled for 60 minutes as follows on Mondays and Thursdays until March 6.
-    - @10:30-11:30 am Team 🌮
-    - @11:30-12:30 pm Team 🍣
-    - @10:00-10:15 am Team 🍜
+    - @11:00 am - 12:00 pm Team 🌮
+    - @1:30-2:30 pm Team 🍜
+    - @2:30-3:30 pm Team 🍣
 
 - **All-Team Low-Key Demo Friday July 28 @11:00 am**
     - All teams meet together to show each other what you have been working on and get feedback and support from peers.
@@ -57,12 +57,13 @@ _All meetings in the regular Zoom unless otherwise noted._
 ### Wednesday August 2
 
 - 9:30-10:00 am **All teams meet together in Zoom** for Presentation Prep Kickoff meeting
-- Working on presentations all day today. ([Presentation Prep Guide]({% link phase4/final-presentations.md %}))
-- Rehearsal TBD
+- Working on presentations all day today.
+- Rehearsal schedule TBD
 
 ### Thursday August 3
 
-- Schedule TBD
+- Working on presentations all day today.
+- Rehearsal schedule TBD
 
 ### Friday August 4
 

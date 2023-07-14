@@ -12,9 +12,11 @@ published: true
 
 We're just about ready to dive into the code.
 
-Today you should be finalizing planning and doing research on data, technology, and tools you might need.
+Today you should be finalizing planning and doing research on data, technology, and tools you might need. If you are learning something new to build this project, this weekend is a great time to do a short tutorial to get up to speed.
 
-📆 [Calendar reminders for next week and on]({% link phase4/detailed-schedule.md %}). Daily standup and project check-ins start next week!
+Daily standup and project check-ins start on Monday!
+
+📆 You'll have calendar invitations for your team's standup and check-in times. [The detailed schedule for next week and on is also posted here on the course site]({% link phase4/detailed-schedule.md %}).
 
 Skim the following checklists to make sure you're ready.
 
