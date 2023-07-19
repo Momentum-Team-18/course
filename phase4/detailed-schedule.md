@@ -28,7 +28,7 @@ _All meetings in the regular Zoom unless otherwise noted._
 
 - Check your calendar for an invite
 - The first check-in will be on **Monday July 17**.
-- Check-ins are scheduled for 60 minutes as follows on Mondays and Thursdays until March 6.
+- Check-ins are scheduled for 60 minutes as follows on Mondays and Thursdays until July 31.
     - @11:00 am - 12:00 pm Team 🌮
     - @1:30-2:30 pm Team 🍜
     - @2:30-3:30 pm Team 🍣
