@@ -58,14 +58,20 @@ _All meetings in the regular Zoom unless otherwise noted._
 
 - 9:30-10:00 am **All teams meet together in Zoom** for Presentation Prep Kickoff meeting
 - Working on presentations all day today.
-- Rehearsal schedule TBD
+- 2:00-2:45 pm First rehearsal: first draft of personal intro and video script should be done. We'll ask you to run us through it and we'll give you feedback on content and delivery.
 
 ### Thursday August 3
 
 - Working on presentations all day today.
-- Rehearsal schedule TBD
+- Public speaking coaching
+    - 10:30 - 11:00 am Team Catalyst
+    - 11:00 - 11:30 am Team Sashimi
+- 2:00-2:45 pm Second rehearsal: We'll practice personal intros; play the video, and practice Q&A. You will have time to make adjustments to the video if needed.
+- 4:00 pm - Final video completed and [submitted using this form](https://forms.gle/hRRfGH2kWSEoFXrE7).
+- 4:15-5:00 pm Final Rehearsal & Tech Check: Full-run through in order.
 
 ### Friday August 4
 
+- 10:00 am Project Summary page should be done and deployed on GitHub Pages.
 - 12:00-1:00 pm **Presentations** (A Zoom link inviting you to be a panelist for a webinar will be in your email inbox; **you must use the link in your own email** because that link will be **unique to you**)
 - 1:00-2:00 pm **Celebrate Program Complete!** [Zoom Link TBD]()
