@@ -88,7 +88,7 @@ This can be one or two sentences. Some ways you could consider wrapping up your 
 
 This is a simple one-page site that includes a project description, information about your team, and links to the production version of your project, GitHub repos, and presentation video. You can [use this template repo](https://github.com/momentumlearn/project-page-template) to create your own project page repo in your team's GitHub organization, then clone it and customize it following the instructions in the README.
 
-The project summary page should be done by Friday morning. Submit your link to the production version via this form.
+The project summary page should be done by Friday morning. Submit your link to the production version via [this form](https://forms.gle/Sjwkz9nDsexgVjyH6).
 
 ## Q&A WITH PANELISTS
 
