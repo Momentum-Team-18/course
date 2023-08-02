@@ -102,7 +102,7 @@ You should be prepared to answer questions about the technical implementation of
 
 Examples questions being given to the panelists include:
 
-- Can you tell me about why you decided to use <_insert technology_> to build this feature?
+- Can you tell me about why you decided to use [_some technology_] to build this feature?
 - What was one challenge or unexpected thing you encountered during your project, and how did you deal with it?
 - What is your favorite thing about this application?
 - Did you have to make any hard choices or compromises during development? How did you make that decision?
