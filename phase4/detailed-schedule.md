@@ -63,7 +63,7 @@ _All meetings in the regular Zoom unless otherwise noted._
 ### Thursday August 3
 
 - Working on presentations all day today.
-- Public speaking coaching
+- Public speaking coaching with Raschelle - please come with a script for your personal intro
     - 10:30 - 11:00 am Team Catalyst
     - 11:00 - 11:30 am Team Sashimi
 - 2:00-2:45 pm Second rehearsal: We'll practice personal intros; play the video, and practice Q&A. You will have time to make adjustments to the video if needed.
