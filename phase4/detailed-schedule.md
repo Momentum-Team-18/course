@@ -63,7 +63,7 @@ _All meetings in the regular Zoom unless otherwise noted._
 ### Thursday August 3
 
 - Working on presentations all day today.
-- Public speaking coaching with Raschelle - please come with a script for your personal intro
+- Public speaking coaching with Raschelle - please come with a script for your personal intro.
     - 10:30 - 11:00 am Team Catalyst
     - 11:00 - 11:30 am Team Sashimi
 - 2:00-2:45 pm Second rehearsal: We'll practice personal intros; play the video, and practice Q&A. You will have time to make adjustments to the video if needed.
@@ -74,4 +74,4 @@ _All meetings in the regular Zoom unless otherwise noted._
 
 - 10:00 am Project Summary page should be done and deployed on GitHub Pages.
 - 12:00-1:00 pm **Presentations** (A Zoom link inviting you to be a panelist for a webinar will be in your email inbox; **you must use the link in your own email** because that link will be **unique to you**)
-- 1:00-2:00 pm **Celebrate Program Complete!** [Zoom Link TBD]()
+- 1:00-2:00 pm **Celebrate Program Complete!** [Zoom Link, shareable with family and friends](https://us02web.zoom.us/j/88216463833?pwd=NzBYbVVFamFmYWJyalgxbkhpZTVBQT09)
