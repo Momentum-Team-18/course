@@ -56,7 +56,7 @@ layout: resource_list
 - [Jamie Howard, Huddle on Agile, Aug 2022](https://drive.google.com/file/d/1g4J7ncUspw2qh6D2yW0NsG5tISYZCPfM/view?usp=share_link)
 - [Beginner's Guide to Scrum and Agile](https://blog.trello.com/beginners-guide-scrum-and-agile-project-management)
 - [12 principles from the Agile Manifesto](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
-- [The Power in Agile, a talk by Sarah Mei](https://www.youtube.com/watch?v=YL-6RCTywbc&feature=youtu.be) _A critical look at the power dynamics implicit in Agile methods._
+
 - [Agile 101: Glossary](https://www.agilealliance.org/agile101/agile-glossary/)
 - [Scrum Guide](https://scrumguides.org/scrum-guide.html)
 
@@ -66,6 +66,8 @@ layout: resource_list
 - [Making sense of MVP](https://www.youtube.com/watch?v=0P7nCmln7PM) _Video that explores the skateboard diagram in detail_
 - [Acceptance Criteria](https://www.productplan.com/glossary/acceptance-criteria/)
 - [What is a definition of done and why do you need it?](https://www.allstacks.com/blog/what-is-a-definition-of-done-and-why-you-need-one) _Written by Jamie Howard, a Durham, NC tech leader who has hired our grads._
+- [The Power in Agile, a talk by Sarah Mei](https://www.youtube.com/watch?v=YL-6RCTywbc&feature=youtu.be) _A critical look at the power dynamics implicit in Agile methods._
+- [Agile at Scale: How Spotify does it](https://www.atlassian.com/agile/agile-at-scale/spotify)
 
 ## User Personas
 
@@ -109,5 +111,5 @@ layout: resource_list
 - [Product Roadmap Slides](https://drive.google.com/file/d/1CfBqu0XJ2nu0YwX3udJ9tulN3CxK8Tdz/view?usp=share_link)
 - [Personas & User Stories](https://drive.google.com/file/d/1QCvM1hgpDYYdIfQvsfvNxiUztUTWDSyh/view?usp=sharing)
 - [Trello & Tasks](https://drive.google.com/file/d/1xTEaeCQ174F30HQGY8btcqW5zbhH9-Rh/view)
-- 
+
 {% include reference_links.md %}
