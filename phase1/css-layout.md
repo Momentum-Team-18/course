@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: 'CSS: Layout'
-parent: Phase 1 Front End
+parent: Phase 1 HTML and CSS
 nav_order: 4
 published: true
 ---

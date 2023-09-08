@@ -32,17 +32,11 @@ enable_copy_code_button: true
 title: Momentum Team 18 Course Site
 team_name: 'Team 18'
 url: 'https://momentum-team-18.github.io'
-team_github_org: &github_org 'https://github.com/momentum-team-18'
-team_notes_repo: 'https://github.com/momentum-team-18/notes'
+team_github_org: &github_org 'https://github.com/Momentum-NCCU-Part-Time'
+team_notes_repo: 'https://github.com/Momentum-NCCU-Part-Time/notes'
 zoom_link_be: 'https://us02web.zoom.us/j/89451654454'
 zoom_link_fe: 'https://us02web.zoom.us/j/81070622688'
 zoom_link_coworking: 'https://us02web.zoom.us/j/705824048'
-
-# content settings
-# these are used in references/computer-setup-apple-silicon.md and references/computer-setup-intel.md
-latest_mac_os_name: 'Ventura'
-latest_mac_os_num: '13'
-latest_mac_os_compatibility_link: 'https://support.apple.com/en-us/HT213264'
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.5.3

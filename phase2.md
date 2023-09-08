@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Phase 2 Back End
-description: Beginner Topics in Back End Development
+title: Phase 2 JavaScript
+description: Modern Web Applications with JavaScript
 has_children: true
 has_toc: true
 toc_ol: true
@@ -11,4 +11,4 @@ nav_exclude: false
 
 <!-- markdownlint-disable single-h1 -->
 
-# Intro to Back End Development
+# Modern Web Applications with JavaScript

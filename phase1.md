@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Phase 1 Front End
+title: Phase 1 HTML and CSS
 description: Beginner Topics in Front End Development
 has_children: true
 has_toc: true
