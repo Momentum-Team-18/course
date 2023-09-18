@@ -1,10 +1,10 @@
 ---
 layout: topic
 title: JavaScript Basics
-tags: phase-1 javascript js programming-basics
-parent: Phase 1 Front End
+tags: phase-2 javascript js programming-basics
+parent: Phase 2 JavaScript
 nav_order: 5
-published: true
+published: false
 ---
 
 ## 🎯 Objectives
@@ -14,10 +14,8 @@ published: true
 
 ## 🏗️ Project: Free Code Camp JavaScript Exercises
 
-First half due {{ site.data.phase1.projects.js_freecodecamp.due_date | date: "%A, %B %e" }}
-
 English:
-[JavaScript practice exercises]({{ site.data.phase1.projects.js_freecodecamp.url }}), from the beginning through "Shopping List" for tomorrow morning.
+[JavaScript practice exercises]({{ site.data.phase1.projects.js_freecodecamp.url }}), from the beginning through "Shopping List" for next class.
 
 
 ### ✅ TODO Today

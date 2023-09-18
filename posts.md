@@ -2,7 +2,7 @@
 layout: home
 title: Posts
 permalink: daily-update
-nav_order: 2
+nav_order: 1
 ---
 
 ## Posts & Announcements
