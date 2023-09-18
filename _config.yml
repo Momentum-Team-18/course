@@ -31,7 +31,7 @@ enable_copy_code_button: true
 # ***** Team-specific settings  ***** EDIT THESE WHEN YOU CLONE A NEW REPO
 title: Momentum NCCU Part Time Team 1 Course Site
 team_name: 'NCCU Part Time Team 1'
-url: 'https://momentum-team-18.github.io'
+url: 'https://momentum-nccu-part-time.github.io'
 team_github_org: &github_org 'https://github.com/Momentum-NCCU-Part-Time'
 team_notes_repo: 'https://github.com/Momentum-NCCU-Part-Time/notes'
 zoom_link_be: 'https://us02web.zoom.us/j/89451654454'
