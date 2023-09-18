@@ -8,7 +8,7 @@ nav_exclude: true
 
 Create a file called `gross_pay.py`. Write your python code in that file.
 
-You should be able to run your program by typing `python gross_pay.py` at your command prompt.
+You should be able to run your program by typing `python3 gross_pay.py` at your command prompt.
 
 ### Exercise 1
 

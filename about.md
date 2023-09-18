@@ -15,8 +15,6 @@ description: >-
 
 ## How to use this site
 
-- **Posts**: This section is for occasional posts by your instructors to supplement the planned topics for each day. See also the [**list of topics by date**]({% link topics_by_date.md %}) for information about the material you'll be working on.
-- **Topics by Date**: A listing by date of the topic you will be working on with your instructor.
 : **CODE DEMO**{: .label .code-demo-label}is a link to the demo code from your instructor.
 : **PROJECT**{: .label .project-label}is a link to the project you're working on.
 : **POST**{: .label .post-label}is a link to any supplemental info from your instructor. There may not be one every day.
