@@ -4,7 +4,7 @@ title: JavaScript Basics
 tags: phase-2 javascript js programming-basics
 parent: Phase 2 JavaScript
 nav_order: 5
-published: true
+published: false
 ---
 
 ## 🎯 Objectives

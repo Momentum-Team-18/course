@@ -5,7 +5,7 @@ description: Modern Web Applications with JavaScript
 has_children: true
 has_toc: true
 toc_ol: true
-nav_order: 4
+nav_order: 3
 nav_exclude: false
 ---
 

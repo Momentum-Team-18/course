@@ -12,67 +12,18 @@
   page: phase1/html.md
   project_name: html_dog_adoption
   code_demo: html_dog_adoption
-  published: true
+  published: false
 - title: CSS Basics
   phase: 1
   date: 2023-04-12
   page: phase1/css-basics.md
   project_name: css_dog_adoption
   code_demo: css_basics
-  published: true
+  published: false
 - title: CSS Layout
   phase: 1
   date: 2023-04-13
   page: phase1/css-layout.md
   project_name: css_dog_adoption
   code_demo: css-flexbox
-  published: true
-- title: JavaScript Basics
-  phase: 1
-  date: 2023-04-17
-  project_name: js_calculator
-  page: phase1/js-basics.md
-  code_demo: js-basics
-  published: true
-- title: JavaScript Loops & Functions
-  phase: 1
-  date: 2023-04-18
-  page: phase1/js-loops-functions.md
-  project_name: js_calculator_2
-  code_demo: js-basics
-  published: true
-- title: JavaScript Arrays
-  phase: 1
-  date: 2023-04-19
-  page: phase1/js-arrays.md
-  project_name: js_calculator
-  code_demo: js-basics
-  published: true
-- title: JS & the DOM
-  phase: 1
-  date: 2023-04-20
-  page: phase1/js-dom.md
-  project_name: js_calculator
-  code_demo: js-dom
-  published: true
-- title: JavaScript Objects
-  phase: 1
-  date: 2023-04-24
-  page: phase1/js-objects.md
-  project_name:
-  code_demo: js-objects
-  published: true
-- title: AJAX & APIs
-  phase: 1
-  date: 2023-04-26
-  page: phase1/js-ajax.md
-  project_name:
-  code_demo: ajax
-  published: true
-- title: JS and Forms
-  phase: 1
-  date: 2023-05-01
-  page: phase1/js-forms.md
-  project_name: ajax_notes
-  code_demo: js-forms
-  published: true
+  published: false
