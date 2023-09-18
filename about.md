@@ -47,71 +47,43 @@ All meetings happen on Zoom. When your team isn't meeting with your instructor, 
 
 Topics include, but are not limited to, the following. Your instructors may adjust the curriculum to include or exclude additional topics as necessary.
 
-### Phase 1: Front-end development
+### Phase 1: HTML and CSS
 
-- Version control with Git and using GitHub
-- HTML & CSS
-- Responsive web design
-- Programming basics and introduction to JavaScript
-- Using JavaScript in the browser
-- Forms on the web
-- Debugging in JavaScript
-- JavaScript objects
-- AJAX and using APIs
-- HTTP requests and methods
+- Intro to Web Development
+- Using the command line
+- Version control with Git
+- How the Web works
+- Creating web pages with HTML & CSS
+- Programming principles
+- Debugging techniques
+- Asking technical questions effectively
+- Technical speaking
 
-### Phase 2: Back-end development
+### Phase 2: Modern Web Applications with JavaScript
 
-- Python basics
-- Lists and tuples; dictionaries; functions
-- List comprehensions
-- Objects, classes and inheritance
-- Working with files
-- Django basics
-- Django models and migrations
-- Django views
-- Templates & context variables
-- Users and authorization
-- Forms in Django
-- Using JavaScript & AJAX with Django
-- Debugging in Django
+- Programming language concepts
+- Adding dynamic interaction with JavaScript
+- Building single-page applications
+- Working with APIs
+- Overview of JavaScript frameworks
 
-### Phase 3: Advanced Back-end
+### Phase 3: Advanced JavaScript
 
-- Using a Postgres database
-- Deploying a Django app
-- Models, relationships & data design
-- Advanced queries
-- Class-based views and overrides
-- REST API design
-- Django REST Framework
-- Views in DRF
-- Serializing data
-- Authentication
-- Filtering & search
-- Permissions
-- Pagination
-- File Uploads
+- VueJS
+- Modern JavaScript best practices
+- Building single-page applications with VueJS
+- Deploying Front-End applications
 
-### Phase 3: Advanced Front-end
+### Phase 4: Back-End Development
 
-- JS review
-- Modern JS landscape & frameworks
-- What is React and why do we use it
-- React fundamentals
-- React hooks
-- How React handles data
-- Using AJAX with React
-- Composing an application with React components
-- Conditional rendering in React
-- Deployment
-- Forms in React (review of web forms)
-- Authentication in a React app
-- Routing in React
-- Using local storage
-- Debugging React applications
-- Uploading files
+- Python Basics
+- Back-End development with Python
+- Introduction to databases
+- Building Web applications with FastAPI
+- Web sessions and authentication
+- Deploying APIs
+- Pair Programming
 
-### Phase 4: Agile Development
+### Phase 5: Agile Development
 
 You'll work on small teams to design and build a complete, real-world software product using the practices of professional software developers. You'll be working independently under the close supervision of your instructor to meet tight deadlines. To complete the program, you will present your project to members of the tech community.
