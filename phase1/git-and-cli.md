@@ -21,7 +21,7 @@ Complete [Git-It]({{site.data.phase1.projects.git_it.url}}), a tutorial program 
 
 To install it and its dependencies, open a terminal and run:
 
-`sudo apt install libconf-2-4 libcanberra-gtk-module`
+`sudo apt install libgconf-2-4 libcanberra-gtk-module`
 
 `wget https://github.com/jlord/git-it-electron/releases/download/4.4.0/Git-it-Linux-x64.zip`
 
