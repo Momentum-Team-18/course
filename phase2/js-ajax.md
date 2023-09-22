@@ -4,7 +4,7 @@ title: Getting Data Using APIs with JS and Fetch
 tags: phase-1 javascript js fetch api json ajax
 parent: Phase 1 Front End
 nav_order: 10
-published: true
+published: false
 ---
 
 ## 🎯 Objectives

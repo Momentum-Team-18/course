@@ -1,57 +1,49 @@
-- title: Intro to Python
-  phase: 2
-  date: 2023-05-08
-  page: phase2/intro-to-python.md
-  project_name:
-  code_demo: intro_python
-  post_today: true
-  published: true
-- title: Python Conditionals and Loops
-  phase: 2
-  date: 2023-05-09
-  page: phase2/py-conditionals-and-loops.md
-  project_name:
-  code_demo: intro_python
-  published: true
-- title: Python Lists and Dictionaries
-  phase: 2
-  date: 2023-05-10
-  page: phase2/py-lists-and-dicts.md
-  project_name: mystery_word
-  code_demo: intro_python
-  published: true
-- title: Python List Comprehensions
-  phase: 2
-  date:
-  page: phase2/py-list-comps.md
-  project_name:
-  code_demo:
+- title: JavaScript Basics
+  phase: 1
+  date: 2023-04-17
+  project_name: js_calculator
+  page: phase1/js-basics.md
+  code_demo: js-basics
   published: false
-- title: Object-Oriented Programming in Python
-  phase: 2
-  date: 2023-05-15
-  page: phase2/py-oop.md
+- title: JavaScript Loops & Functions
+  phase: 1
+  date: 2023-04-18
+  page: phase1/js-loops-functions.md
+  project_name: js_calculator_2
+  code_demo: js-basics
+  published: false
+- title: JavaScript Arrays
+  phase: 1
+  date: 2023-04-19
+  page: phase1/js-arrays.md
+  project_name: js_calculator
+  code_demo: js-basics
+  published: false
+- title: JS & the DOM
+  phase: 1
+  date: 2023-04-20
+  page: phase1/js-dom.md
+  project_name: js_calculator
+  code_demo: js-dom
+  published: false
+- title: JavaScript Objects
+  phase: 1
+  date: 2023-04-24
+  page: phase1/js-objects.md
   project_name:
-  code_demo: object_oriented
-  published: true
-- title: Getting Used to Working in Django
-  phase: 2
-  date: 2023-05-18
-  page: phase2/py-intro-django.md
-  project_name: djangogirls_tutorial
-  code_demo: django_games
-  published: true
-- title: Django CRUD
-  phase: 2
-  date: 2023-05-22
-  page: phase2/py-django-crud.md
-  project_name: django_music
-  code_demo: django_games
-  published: true
-- title: Django Wrap Up 🎬
-  phase: 2
-  date: 2023-05-30
-  page: phase2/py-django-wrap-up.md
+  code_demo: js-objects
+  published: false
+- title: AJAX & APIs
+  phase: 1
+  date: 2023-04-26
+  page: phase1/js-ajax.md
   project_name:
-  code_demo: django_courses
-  published: true
+  code_demo: ajax
+  published: false
+- title: JS and Forms
+  phase: 1
+  date: 2023-05-01
+  page: phase1/js-forms.md
+  project_name: ajax_notes
+  code_demo: js-forms
+  published: false

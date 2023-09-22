@@ -3,7 +3,7 @@ layout: topic
 title: 'Developer Tools: the Command Line and Git'
 topic: The Command Line and Git
 category: phase1
-parent: Phase 1 Front End
+parent: Phase 1 HTML and CSS
 nav_order: 1
 published: true
 ---
@@ -19,14 +19,15 @@ published: true
 
 Complete [Git-It]({{site.data.phase1.projects.git_it.url}}), a tutorial program that will walk you through the basics of Git and GitHub. This project is due {{site.data.phase1.projects.git_it.due_date | date: "%A, %B %e" }}.
 
-To install it, use the command line to run:
-`brew install git-it`
+To install it and its dependencies, open a terminal and run:
 
-This should put the Git-it program in your Applications folder. You can start it by pressing `command-spacebar` on your Mac and typing "git-it" and hitting return when you see the icon.
+`sudo apt install libgconf-2-4 libcanberra-gtk-module`
 
-Git-it will tell you to install Github Desktop. You do not have to install this, although you can if you want. We won't be using it in this program.
+`wget https://github.com/jlord/git-it-electron/releases/download/4.4.0/Git-it-Linux-x64.zip`
 
-The first time you run Git-it, you may get a notice that the application is from an unknown developer. If you do, right-click on the application and then choose "Open." In the dialog that pops up, choose to run the application.
+`unzip Git-it-Linux-x64.zip`
+
+This should put a Git-it executable program inside a Git-it-Linux-x64 directory. You can check by typing `ll Git-it-Linux-x64` - you should see 'Git-it*' in green listed. Run the program by typing: `./Git-it-Linux-x64/Git-it`
 
 Once the application is running, read the instructions and complete the tasks in Git-it. It will take you some time to get all the way through it.
 
@@ -38,8 +39,7 @@ Your link should look similar to this, with a different number at the end: `http
 
 ## 🔖 References
 
-- [Computer Setup for Macbooks with Intel processors]({% link references/computer-setup-intel.md %})
-- [Computer Setup for Macbooks with Apple Silicon chips]({% link references/computer-setup-apple-silicon.md %})
+- [Computer Setup for Linux-Ubuntu]({% link references/computer-setup-linux.md %})
 - [Command Line notes]({{ site.team_notes_repo }}/blob/main/command-line.md)
 - [Git notes]({{ site.team_notes_repo }}/blob/main/git.md)
 

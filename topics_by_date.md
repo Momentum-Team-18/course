@@ -7,7 +7,7 @@ has_toc: false
 nav_order: 1
 ---
 
-# Software Engineering Immersive
+# NCCU Part-Time Software Engineering Course 
 
 _Topics are listed by date, newest to oldest. New entries are added daily._
 

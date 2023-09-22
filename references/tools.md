@@ -7,7 +7,7 @@ layout: resource_list
 
 {% include summary_toc.html %}
 
-## Using VS Code
+## Using VS Codium
 
 Writing code requires a special editor -- you can't use Google Docs or MS Word. VS Code, the code editor we use at Momentum, is widely used in the industry.
 

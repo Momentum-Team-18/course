@@ -4,7 +4,7 @@ title: JavaScript and the DOM
 tags: phase-1 javascript js dom
 parent: Phase 1 Front End
 nav_order: 8
-published: true
+published: false
 ---
 
 

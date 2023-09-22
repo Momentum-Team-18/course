@@ -4,7 +4,7 @@ title: JavaScript Loops & Functions
 tags: phase-1 javascript js programming-basics
 parent: Phase 1 Front End
 nav_order: 6
-published: true
+published: false
 ---
 
 ## 🎯 Objectives
