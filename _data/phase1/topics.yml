@@ -8,11 +8,11 @@
   post_today: true
 - title: HTML
   phase: 1
-  date: 2023-04-11
+  date: 2023-09-21
   page: phase1/html.md
   project_name: html_dog_adoption
   code_demo: html_dog_adoption
-  published: false
+  published: true
 - title: CSS Basics
   phase: 1
   date: 2023-04-12
