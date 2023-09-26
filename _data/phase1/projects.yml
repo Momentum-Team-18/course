@@ -2,13 +2,13 @@ git_it:
   url: https://github.com/jlord/git-it-electron
   due_date: 2023-09-21
 html_dog_adoption:
-  project_template: https://github.com/momentum-projects/html-dog-adoption
+  project_template: https://github.com/Momentum-NCCU-Part-Time/html-dog-adoption
   url: https://classroom.github.com/a/ds11Z4GK
   due_date: 2023-09-26
 css_dog_adoption:
-  project_template: https://github.com/momentum-projects/css-dog-adoption
-  url: https://classroom.github.com/a/ef1y0XKM
-  due_date: 2023-09-28
+  project_template: https://github.com/Momentum-NCCU-Part-Time/css-dog-adoption
+  url: https://classroom.github.com/a/ztB5Rtka
+  due_date: 2023-10-03
 js_freecodecamp:
   url: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
   due_date:

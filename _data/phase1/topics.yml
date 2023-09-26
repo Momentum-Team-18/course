@@ -15,11 +15,11 @@
   published: true
 - title: CSS Basics
   phase: 1
-  date: 2023-04-12
+  date: 2023-09-26
   page: phase1/css-basics.md
   project_name: css_dog_adoption
   code_demo: css_basics
-  published: false
+  published: true
 - title: CSS Layout
   phase: 1
   date: 2023-04-13
