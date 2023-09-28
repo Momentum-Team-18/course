@@ -22,8 +22,8 @@
   published: true
 - title: CSS Layout
   phase: 1
-  date: 2023-04-13
+  date: 2023-09-28
   page: phase1/css-layout.md
   project_name: css_dog_adoption
   code_demo: css-flexbox
-  published: false
+  published: true
