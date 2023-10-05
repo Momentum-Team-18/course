@@ -1,10 +1,10 @@
 - title: JavaScript Basics
   phase: 1
-  date: 2023-04-17
+  date: 2023-10-05
   project_name: js_calculator
-  page: phase1/js-basics.md
+  page: phase2/js-basics.md
   code_demo: js-basics
-  published: false
+  published: true
 - title: JavaScript Loops & Functions
   phase: 1
   date: 2023-04-18

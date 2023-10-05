@@ -4,7 +4,7 @@ title: JavaScript Basics
 tags: phase-2 javascript js programming-basics
 parent: Phase 2 JavaScript
 nav_order: 5
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
@@ -16,11 +16,6 @@ published: false
 
 English:
 [JavaScript practice exercises]({{ site.data.phase1.projects.js_freecodecamp.url }}), from the beginning through "Shopping List" for next class.
-
-
-### ✅ TODO Today
-
-1. Log in to [http://teams.momentumlearn.com](http://teams.momentumlearn.com) and complete your self-evaluation from last week if you have not yet.
 
 ## 🔖 References
 
